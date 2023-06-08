@@ -10,7 +10,8 @@ This is a project used to develop my skills with React. For my web-design class,
 JavaScript, SQL, CSS, and HTML. Much of the work I had previously done on that website was lost, which is a shame, but
 a good opportunity for me to use the same project to develop my skills with React.
 
-Some additional notes I thought worth mentioning:
+Some additional notes I thought worth mentioning so that I can review for future projects are listed below.
+
  * IntelliJ did not create most of the folders and files as needed. As such, I needed to create the src directory and
    then the components directory inside of it. I then had to create the App.js file in the src folder.
  * IntelliJ also did not create package.json, so running npm install caused errors. I had to create the file manually,
@@ -18,6 +19,13 @@ Some additional notes I thought worth mentioning:
    keeping-mantises, but I don't think that should cause issues.
  * Components are the building blocks of modular programming in React, and are analogous to classes and objects.
  * App.js is kinda/sorta similar to the driver class in that it is the starting point of the program.
+
+ * IntelliJ also did not create a public folder with index.html, so I made that as well. 
+ * The public folder is just the directory to keep everything that the person viewing the website will see. It will
+   include things like the index, images, and static files such as favicon.ico, robots.txt, or any other files that 
+   should be accessible to the public.
+        - "The separation between the public and src folders helps organize and manage your project structure, allowing 
+           you to differentiate between static assets and the dynamic code of your React application." - ChatGPT
 
 ## Usage
 
