@@ -30,8 +30,6 @@ merely as note-taking as I learn about React, and is not required for usage.
    modify, add, or delete elements and content on the page dynamically. Each element of the web page (such as 
    headings, paragraphs, images, buttons) is represented as a node in the DOM tree, with relationships and 
    properties that can be manipulated."
-
-
  * IntelliJ also did not create a public folder with index.html, nor did it create index.js in src. Those were made
     manually.
  * The public folder is just the directory to keep everything that the person viewing the website will see. It will
