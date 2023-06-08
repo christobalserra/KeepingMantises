@@ -31,6 +31,7 @@ The following are the requirements to run this project:
 
   *Note*: I am basing this information on the following website since I have not made a React readme before, so I am
   uncertain of the correctness of this.
+
   https://reactjsexample.com/an-application-that-takes-basic-information-about-the-users-project-as-an-input-and-generates-a-readme-md-file-which-the-user-can-upload-directly-in-t
 
 ## Resources
